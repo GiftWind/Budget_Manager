@@ -1,0 +1,18 @@
+Balance:785.64
+Purchase:Almond 250g:Food:35.43
+Purchase:Milk:Food:3.50
+Purchase:Red Fuji Apple:Food:5.99
+Purchase:Eggs:Food:3.99
+Purchase:FIJI Natural Artesian Water:Food:25.98
+Purchase:Hershey's milk chocolate bars:Food:8.54
+Purchase:Great Value Broccoli Florets:Food:1.00
+Purchase:Keystone Ground Bee:Food:6.28
+Purchase:Gildan LT:Clothes:8.61
+Purchase:Men's Dual Defense Crew Socks 12 Pairs:Clothes:13.00
+Purchase:Wrangler Men's Stretch Cargo Pant:Clothes:19.97
+Purchase:LEGO DUPLO Town Farm Animals:Entertainment:10.10
+Purchase:Cinema:Entertainment:8.73
+Purchase:Skate rental:Entertainment:30.00
+Purchase:Sensodyne Pronamel Toothpaste:Other:19.74
+Purchase:Chick-fil-A $10 Gift Card:Other:10.00
+Purchase:Debt:Other:3.50
